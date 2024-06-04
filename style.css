@@ -1322,7 +1322,7 @@ textarea.form-input::-webkit-resizer {
 
   .sidebar {
     max-height: 180px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
   }
 
   .sidebar.active {
